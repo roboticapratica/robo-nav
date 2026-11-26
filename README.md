@@ -11,3 +11,7 @@ Além de usar peças super acessíveis, você pode montar e testar todo o circui
 Professor José de Assis
 ## Simulador do projeto
 [thinkercad](https://www.tinkercad.com/things/700iF4M9QNX-robo-nav-l293n)
+
+---
+> [!TIP]
+> 🤖 **Quer montar este robô?** Confira o [**Tutorial Passo a Passo completo na Wiki**](https://github.com/roboticapratica/robo-nav/wiki) com a lista de materiais, montagem do chassi, ligações e sensores!
