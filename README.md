@@ -1,4 +1,5 @@
 ![GitHub License](https://img.shields.io/github/license/roboticapratica/robo-nav)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 # Robô NAV: seu primeiro robô autônomo! (Versão L293D)
 Se você quer dar os primeiros passos na robótica sem complicação, o NAV é o projeto ideal para começar. Ele é a montagem mais clássica e simples do universo Arduino: um carrinho sobre um chassi 2WD equipado com um sensor ultrassônico HC-SR04 que funciona como um "sonar" para ele enxergar o caminho e desviar de paredes, móveis ou do seu cachorro antes de sair batendo por aí.
